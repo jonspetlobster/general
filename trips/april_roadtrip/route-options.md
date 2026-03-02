@@ -4,6 +4,13 @@ All routes start/end in **Santa Cruz, CA**.
 
 **White Rim dates (fixed):** April 12-14, 2026
 
+**Early April Weather Considerations:**
+- **Desert areas** (Death Valley, Moab, Valley of Fire): Warm to hot days (70-95°F), cool nights (35-65°F), mostly dry
+- **High elevations** (Mammoth, La Sal Mountains): Snow likely, some roads may be closed
+- **Transition zones** (Zion, Alabama Hills): Pleasant spring weather (60-75°F), occasional wind
+- **Check road status** before departure: Tioga Road, Kings Canyon, La Sal Loop, Cathedral Valley
+- **Pack layers** - temperature swings of 40-50°F between day and night are common
+
 ---
 
 ## 🔵 PRE-WHITE RIM ROUTES (Apr 4-11)
@@ -24,6 +31,7 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 **Day 1 (Apr 4) - Santa Cruz → Alabama Hills**
 - **Distance:** 300 miles, 5 hours
 - **Route:** US-395 south through Owens Valley
+- **Optional detour:** Add Kings Canyon via CA-180 (+2-3 hours, stunning canyon drive - check if road is open past Grant Grove in early April)
 - **Camp:** BLM dispersed around Alabama Hills (Movie Road, Tuttle Creek)
 - **Activities:** Explore Alabama Hills, short sunset ride
 
@@ -59,8 +67,20 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** Same spot or move to closer staging area
 - **Activities:** Mountain bike (Slickrock, Porcupine Rim, Mag 7), prep for White Rim, resupply in town
 
-**Pros:** High-elevation scenery, less crowded, good biking at Alabama Hills/Mammoth  
-**Cons:** Possible snow at Mammoth in early April, longer drives
+**Scenic Drives:**
+- **Tioga Road (if open)** - Yosemite high country (often closed until May)
+- **Kings Canyon Scenic Byway** - 30 miles into Kings Canyon NP, stunning canyon views
+- **Whitney Portal Road** - 13 miles from Lone Pine to Mt. Whitney trailhead
+- **Rock Creek Road** - Mammoth area, alpine scenery
+
+**Weather (early April):**
+- **Alabama Hills:** 60-75°F days, 35-45°F nights, mostly dry
+- **Mammoth:** 40-55°F days, 20-30°F nights, snow possible at elevation
+- **Zion area:** 65-75°F days, 40-50°F nights
+- **Moab:** 60-70°F days, 35-45°F nights
+
+**Pros:** High-elevation scenery, less crowded, good biking, scenic byways  
+**Cons:** Snow likely at Mammoth/high elevations in early April, some roads may be closed (check Tioga, Kings Canyon status)
 
 ---
 
@@ -124,8 +144,21 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** Same spot (close to Mineral Bottom Road staging)
 - **Activities:** Mountain bike Moab trails, final White Rim prep
 
-**Pros:** Iconic desert parks, Gooseberry Mesa biking, Valley of Fire  
-**Cons:** Death Valley can be HOT in April (90-100°F), limited mountain biking there
+**Scenic Drives:**
+- **Artist's Drive** - Death Valley, 9-mile loop through colorful badlands
+- **Badwater Road** - Death Valley, to lowest point in North America (-282 ft)
+- **Valley of Fire Scenic Loop** - 10-mile loop through red rock formations
+- **Zion Canyon Scenic Drive** - 6 miles up canyon (shuttle required during peak season)
+- **Kolob Canyons Road** - 5 miles into Zion's northern section
+
+**Weather (early April):**
+- **Death Valley:** 80-95°F days, 55-65°F nights, very hot by midday
+- **Valley of Fire:** 75-85°F days, 50-60°F nights
+- **Zion area:** 65-75°F days, 40-50°F nights
+- **Moab:** 60-70°F days, 35-45°F nights
+
+**Pros:** Iconic desert parks, great scenic drives, Gooseberry Mesa biking, Valley of Fire, warm weather  
+**Cons:** Death Valley can be HOT in April (potentially 90-100°F by afternoon), limited mountain biking at Death Valley, bring extra water
 
 ---
 
@@ -170,8 +203,21 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** Move closer to Mineral Bottom Road entry
 - **Activities:** Light riding, final White Rim prep, check vehicle/gear
 
-**Pros:** Maximum time on world-class Moab trails, less driving stress, 4 full riding days  
-**Cons:** Skips other scenic areas, Nevada camp is just a stopover
+**Scenic Drives:**
+- **Arches Scenic Drive** - 18 miles through Arches NP, world-class rock formations
+- **Canyonlands Island in the Sky** - Mesa top roads with expansive canyon views
+- **Potash Road (Highway 279)** - 17 miles along Colorado River, petroglyphs and rock art
+- **La Sal Mountain Loop** - 60-mile alpine loop (may have snow at top in early April)
+- **Castle Valley Scenic Byway** - Red rock towers and mesas
+
+**Weather (early April):**
+- **Moab:** 60-70°F days, 35-45°F nights, generally perfect riding weather
+- **Occasional rain/wind** but mostly dry
+- **Arches/Canyonlands:** Same as Moab, exposed to wind on mesa tops
+- **Snow possible** at high elevations (La Sal Mountains)
+
+**Pros:** Maximum time on world-class Moab trails, less driving stress, 4 full riding days, excellent scenic drives, ideal spring weather  
+**Cons:** Skips other scenic areas, Nevada camp is just a stopover, can be windy
 
 ---
 
@@ -211,8 +257,17 @@ You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
 - **Route:** US-50 → I-80 → CA-99 → Santa Cruz
 - **Activities:** Drive home, arrive evening
 
-**Pros:** See Capitol Reef (stunning, less crowded than Zion/Arches)  
-**Cons:** Long drive on Day 3-4
+**Scenic Drives:**
+- **Capitol Reef Scenic Drive** - 8 miles through orchards and canyons
+- **Cathedral Valley Loop** - 60-mile 4WD loop (remote, requires good conditions)
+- **Highway 12** (if routing that way) - All-American Road, stunning views
+
+**Weather (mid-April):**
+- **Capitol Reef:** 65-75°F days, 40-50°F nights, pleasant spring conditions
+- **Cathedral Valley** may be impassable if recent rain
+
+**Pros:** See Capitol Reef (stunning, less crowded than Zion/Arches), excellent scenic drives  
+**Cons:** Long drive on Day 3-4, Cathedral Valley requires 4WD and dry conditions
 
 ---
 
