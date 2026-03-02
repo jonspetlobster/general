@@ -66,6 +66,8 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### Route B: Desert Parks Focus
 
+![Death Valley](images/death-valley.jpg)  
+*Death Valley National Park - Wikimedia Commons*
 
 **Theme:** Death Valley, Nevada desert, iconic landscapes  
 **Total driving:** ~900 miles to Moab  
@@ -87,6 +89,9 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Distance:** 160 miles, 2.5 hours
 - **Camp:** Valley of Fire State Park (first-come sites) or BLM near park
 - **Activities:** Explore Valley of Fire, petroglyph hikes
+
+![Valley of Fire](images/valley-of-fire.jpg)  
+*Valley of Fire State Park - Wikimedia Commons*
 
 
 
@@ -126,7 +131,8 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### Route C: Moab-Centric (Maximum Ride Time)
 
-
+![Moab Landscape](images/moab-landscape.jpg)  
+*Canyonlands area, Utah - Wikimedia Commons*
 
 **Theme:** Get to Moab faster, spend 4+ days riding world-class trails  
 **Total driving:** ~750 miles direct to Moab  
@@ -175,6 +181,8 @@ You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
 
 ### Route A: Capitol Reef Loop
 
+![Capitol Reef](images/capitol-reef.jpg)  
+*Capitol Reef National Park - Wikimedia Commons*
 
 **Theme:** See another Utah park, scenic return  
 **Total driving:** ~900 miles back to Santa Cruz  
@@ -243,6 +251,8 @@ You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
 
 ### Route C: Goblin Valley Detour
 
+![Goblin Valley](images/goblin-valley.jpg)  
+*Goblin Valley State Park - Wikimedia Commons*
 
 **Theme:** Quick Goblin Valley visit, different scenery  
 **Total driving:** ~800 miles back to Santa Cruz  
