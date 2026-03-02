@@ -10,9 +10,10 @@ All routes start/end in **Santa Cruz, CA**.
 
 You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/Hwy 313.
 
-###Route A: Eastern Sierra Mountain Focus
+### Route A: Eastern Sierra Mountain Focus
 
-![Alabama Hills](images/alabama-hills.jpg)
+![Alabama Hills](images/alabama-hills.jpg)  
+*Alabama Hills, California - BLM official photo*
 
 **Theme:** High desert mountains, scenic camping, moderate biking  
 **Total driving:** ~950 miles to Moab  
@@ -41,7 +42,7 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** Same spot
 - **Activities:** Mountain bike Mammoth trails (may have some snow at high elevation), hot springs (Wild Willy's, Benton)
 
-![Mountain Landscape](images/mountain-landscape.jpg)
+
 
 **Day 5 (Apr 8) - Mammoth → Zion Area**
 - **Distance:** 330 miles, 5.5 hours
@@ -65,7 +66,6 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### Route B: Desert Parks Focus
 
-![Death Valley](images/death-valley.jpg)
 
 **Theme:** Death Valley, Nevada desert, iconic landscapes  
 **Total driving:** ~900 miles to Moab  
@@ -88,7 +88,6 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** Valley of Fire State Park (first-come sites) or BLM near park
 - **Activities:** Explore Valley of Fire, petroglyph hikes
 
-![Valley of Fire](images/valley-of-fire.jpg)
 
 
 
@@ -101,7 +100,9 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** BLM dispersed near Zion (Smithsonian Butte Road, Gooseberry Mesa area)
 - **Activities:** Setup camp early, explore Gooseberry Mesa
 
-![Zion National Park](images/zion.jpg)
+![Zion National Park](images/zion.jpg)  
+*Zion National Park - NPS official photo*
+
 
 
 
@@ -125,9 +126,7 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### Route C: Moab-Centric (Maximum Ride Time)
 
-![Moab Landscape](images/moab-landscape.jpg)
 
-![Mountain Biking](images/mountain-biking.jpg)
 
 **Theme:** Get to Moab faster, spend 4+ days riding world-class trails  
 **Total driving:** ~750 miles direct to Moab  
@@ -155,7 +154,9 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
   - Town resupply/meals
   - Rest/recovery days as needed
 
-![Arches National Park](images/arches-np.jpg)
+![Arches National Park](images/arches-np.jpg)  
+*Landscape Arch, Arches National Park - NPS official photo*
+
 
 
 
@@ -174,7 +175,6 @@ You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
 
 ### Route A: Capitol Reef Loop
 
-![Capitol Reef](images/capitol-reef.jpg)
 
 **Theme:** See another Utah park, scenic return  
 **Total driving:** ~900 miles back to Santa Cruz  
@@ -243,7 +243,6 @@ You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
 
 ### Route C: Goblin Valley Detour
 
-![Goblin Valley](images/goblin-valley.jpg)
 
 **Theme:** Quick Goblin Valley visit, different scenery  
 **Total driving:** ~800 miles back to Santa Cruz  
