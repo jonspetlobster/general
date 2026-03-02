@@ -166,20 +166,39 @@
 - Order bikes (can take time to arrive/assemble)
 - Buy big-ticket items (rack, sleeping bags, compressor)
 
-**2-4 weeks before (mid-late Mar):**
-- **Vehicle maintenance appointments (TIRES BY MARCH 22)**
-- Fill gear gaps (headlamps, tools, etc.)
-- Test all gear at home
+**MARCH 15 DEADLINE - Recovery Gear & Camping Equipment:**
+- [ ] Order air compressor
+- [ ] Order recovery straps/boards
+- [ ] Order sleeping bags/pads
+- [ ] Order tent (if needed)
+- [ ] Order camping stove
+- [ ] Order headlamps/lanterns
+- [ ] Order water containers
+- [ ] Order bike accessories (helmets, packs, tools)
+- [ ] Order drone + accessories
+- Allow 1-2 weeks for shipping + testing
 
-**1 week before (late Mar/early Apr):**
-- Buy food staples
-- Pack and organize
-- Final vehicle check
+**MARCH 22 DEADLINE - Vehicle:**
+- [ ] **NEW TIRES installed**
+- [ ] Oil change
+- [ ] Brake inspection
+- [ ] All fluids topped off
+- [ ] 4WD test
+- Not last weekend before departure
 
-**Day before departure:**
-- Fresh food, ice
-- Top off fuel, water
-- Final pack check
+**MARCH 28 DEADLINE - Food Shopping:**
+- [ ] Non-perishable meals (freeze-dried, canned, etc.)
+- [ ] Snacks (bars, nuts, jerky)
+- [ ] Coffee/tea
+- [ ] Spices/condiments
+- [ ] Cooking oil, dish soap
+- [ ] Paper towels, trash bags
+- Buy 1 week before, gives time to organize/pack
+
+**APRIL 3 (Day before departure):**
+- [ ] Fresh food, ice
+- [ ] Top off fuel, water
+- [ ] Final pack check
 
 ## Budget Estimate (Rough)
 
