@@ -136,6 +136,22 @@
 - [ ] **12V phone charger**
 - [ ] **GoPro or action camera** (optional, for riding/scenery)
 
+## 🚁 Drone
+
+**Options:**
+- **DJI Mini 4 Pro** (~$759) — Best value, <249g (no FAA registration), 34 min flight time, 4K/60fps
+- **DJI Air 3** (~$1,099) — Dual cameras, 46 min flight time, obstacle avoidance
+- **DJI Mavic 3** (~$2,199) — Pro-level, Hasselblad camera, 43 min flight time
+
+**Accessories:**
+- [ ] Extra batteries (2-3 additional)
+- [ ] ND filters for desert sun
+- [ ] Hard case for transport
+- [ ] Car charger
+- [ ] MicroSD cards (128GB+ high-speed)
+
+**Note:** Check NPS regulations — drones prohibited in National Parks (Canyonlands, Arches, Zion, Death Valley, Capitol Reef). OK on BLM land and most dispersed camping areas.
+
 ## Moab-Specific Gear
 
 - [ ] **Dust masks or buffs** (Moab = dusty, especially on bikes)
@@ -173,9 +189,10 @@
 | Bike rack/tailgate pad | $150 - $500 |
 | Camping gear (if buying new) | $500 - $1,000 |
 | Vehicle gear (compressor, straps, etc.) | $200 - $400 |
+| Drone + accessories | $900 - $2,500 |
 | Food for 14 days | $400 - $600 |
 | Fuel (estimate ~2,500 miles @ 15 mpg) | $500 - $700 |
 | Campsite fees (non-White Rim) | $100 - $200 |
-| **Total** | **$4,250 - $7,000** |
+| **Total** | **$5,150 - $9,500** |
 
 Add buffer for misc/unexpected.
