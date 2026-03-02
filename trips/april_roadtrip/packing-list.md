@@ -1,0 +1,93 @@
+# Packing List - April Roadtrip
+
+## Vehicle/Recovery Gear
+
+- [ ] Spare tire (full-size)
+- [ ] Jack + lug wrench
+- [ ] Air compressor (tire deflation/inflation)
+- [ ] Recovery straps/shackles
+- [ ] Shovel
+- [ ] Fire extinguisher
+- [ ] Jumper cables/battery pack
+- [ ] Basic tool kit
+- [ ] Fix-a-flat / tire plug kit
+- [ ] Extra fuel (check permit rules)
+- [ ] Fluids (oil, coolant, etc.)
+
+## Camping Gear
+
+- [ ] Tent
+- [ ] Sleeping bag (rated for April desert nights - can drop to 30s°F)
+- [ ] Sleeping pad
+- [ ] Camp chairs
+- [ ] Headlamps + extra batteries
+- [ ] Lantern
+- [ ] Firewood/fire starter (if allowed)
+- [ ] Lighter/matches
+
+## Kitchen
+
+- [ ] Stove + fuel
+- [ ] Cookware (pots, pans)
+- [ ] Eating utensils
+- [ ] Plates/bowls
+- [ ] Cooler + ice
+- [ ] Water containers (White Rim = dry camping, bring all water)
+- [ ] Trash bags
+- [ ] Dish soap + sponge
+- [ ] Paper towels
+
+## Food
+
+- [ ] Breakfasts (2 days)
+- [ ] Lunches (2 days)
+- [ ] Dinners (2 nights)
+- [ ] Snacks
+- [ ] Coffee/tea
+- [ ] Drinking water (1 gallon/person/day minimum - 6+ gallons total)
+
+## Clothing
+
+- [ ] Layers (mornings/evenings cold, midday warm)
+- [ ] Rain jacket
+- [ ] Warm jacket/fleece
+- [ ] Hiking boots
+- [ ] Camp shoes
+- [ ] Hat
+- [ ] Sunglasses
+- [ ] Gloves
+
+## Personal
+
+- [ ] Sunscreen (high SPF)
+- [ ] Lip balm
+- [ ] Toiletries
+- [ ] Medications
+- [ ] First aid kit
+- [ ] Toilet paper + trowel
+- [ ] Hand sanitizer
+- [ ] Towel
+
+## Navigation/Comms
+
+- [ ] GPS/maps (cell service unreliable)
+- [ ] Permit (printed)
+- [ ] Satellite communicator (InReach, SPOT, etc.)
+- [ ] Phone charger (12V or battery pack)
+- [ ] Camera
+
+## Misc
+
+- [ ] National Parks Pass
+- [ ] Cash
+- [ ] Multi-tool/knife
+- [ ] Duct tape
+- [ ] Paracord
+- [ ] Tarp/ground cloth
+
+## Notes
+
+- **Water is critical** - White Rim has no water sources. Bring more than you think.
+- **Trash = pack it all out** - Leave No Trace
+- **Weather:** April in Moab = highs 60-70°F, lows 30-40°F. Wind and dust possible.
+- **Permits:** Keep physical copy accessible
