@@ -67,7 +67,7 @@
 
 ### F150 Maintenance (Do Before Trip)
 
-- [ ] **NEW TIRES - DEADLINE: March 22** (not last weekend before departure)
+- [ ] **NEW TIRES - DEADLINE: March 15** (3 weeks before departure)
 - [ ] Oil change (if due)
 - [ ] Check tire pressure + tread on new tires (including spare)
 - [ ] Inspect brake pads
@@ -166,7 +166,7 @@
 - Order bikes (can take time to arrive/assemble)
 - Buy big-ticket items (rack, sleeping bags, compressor)
 
-**MARCH 15 DEADLINE - Recovery Gear & Camping Equipment:**
+**MARCH 8 DEADLINE - Recovery Gear & Camping Equipment:**
 - [ ] Order air compressor
 - [ ] Order recovery straps/boards
 - [ ] Order sleeping bags/pads
@@ -176,24 +176,24 @@
 - [ ] Order water containers
 - [ ] Order bike accessories (helmets, packs, tools)
 - [ ] Order drone + accessories
-- Allow 1-2 weeks for shipping + testing
+- Allow 3+ weeks for shipping, returns, replacements if needed
 
-**MARCH 22 DEADLINE - Vehicle:**
+**MARCH 15 DEADLINE - Vehicle:**
 - [ ] **NEW TIRES installed**
 - [ ] Oil change
 - [ ] Brake inspection
 - [ ] All fluids topped off
 - [ ] 4WD test
-- Not last weekend before departure
+- 3 weeks before departure = plenty of wiggle room
 
-**MARCH 28 DEADLINE - Food Shopping:**
+**MARCH 21 DEADLINE - Food Shopping:**
 - [ ] Non-perishable meals (freeze-dried, canned, etc.)
 - [ ] Snacks (bars, nuts, jerky)
 - [ ] Coffee/tea
 - [ ] Spices/condiments
 - [ ] Cooking oil, dish soap
 - [ ] Paper towels, trash bags
-- Buy 1 week before, gives time to organize/pack
+- 2 weeks before departure, time to organize/restock if needed
 
 **APRIL 3 (Day before departure):**
 - [ ] Fresh food, ice
