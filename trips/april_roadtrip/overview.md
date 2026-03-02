@@ -3,7 +3,9 @@
 **Available Window:** April 4-18, 2026  
 **Vehicle:** F150 4x4  
 **Start/End:** Santa Cruz, CA  
-**Confirmed Activity:** White Rim Trail (April 12-14)
+**Focus:** Mountain biking + camping (CA mountains/desert → Moab)  
+**Confirmed Activity:** White Rim Trail (April 12-14)  
+**Camping:** No other reservations — dispersed/BLM/first-come sites
 
 ## Timeline
 
