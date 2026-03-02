@@ -17,6 +17,17 @@ All routes start/end in **Santa Cruz, CA**.
 
 You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/Hwy 313.
 
+### TL;DR - Pre-White Rim Route Comparison
+
+**Route A: Eastern Sierra Mountain Focus** (~950 mi, 2 rest days)  
+High desert + mountains. Alabama Hills, Mammoth hot springs, Zion. Great scenic drives (Kings Canyon, Whitney Portal). **Catch:** Snow likely at high elevations, some roads may be closed.
+
+**Route B: Desert Parks Focus** (~900 mi, 2 rest days)  
+Iconic parks. Death Valley, Valley of Fire, Gooseberry Mesa biking, Zion. Tons of scenic drives. **Catch:** Death Valley will be HOT (80-95°F+), limited biking there.
+
+**Route C: Moab-Centric** (~750 mi, 4 rest days)  
+Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupine, Mag 7, Whole Enchilada). Best weather. **Catch:** Skip other parks, focus is purely on Moab trails.
+
 ### Route A: Eastern Sierra Mountain Focus
 
 ![Alabama Hills](images/alabama-hills.jpg)  
@@ -224,6 +235,17 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 ## 🟢 POST-WHITE RIM ROUTES (Apr 15-18)
 
 You have **4 days** to return to Santa Cruz after exiting White Rim on Apr 14.
+
+### TL;DR - Post-White Rim Route Comparison
+
+**Route A: Capitol Reef Loop** (~900 mi, 1 rest day)  
+See another park. Capitol Reef scenic drives, Cathedral Valley 4WD option. **Catch:** Long final drive days.
+
+**Route B: Moab Recovery + Direct Return** (~750 mi, 2 rest days)  
+Rest up. 2 full days in Moab to recover (shower, spa, brewery, light riding). Fastest way home. **Catch:** Less variety.
+
+**Route C: Goblin Valley Detour** (~800 mi, 1 rest day)  
+Two parks. Quick Goblin Valley + Capitol Reef combo. Unique landscapes. **Catch:** More moving around, less rest.
 
 ### Route A: Capitol Reef Loop
 
