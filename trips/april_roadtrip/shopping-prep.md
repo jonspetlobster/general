@@ -67,8 +67,9 @@
 
 ### F150 Maintenance (Do Before Trip)
 
+- [ ] **NEW TIRES - DEADLINE: March 22** (not last weekend before departure)
 - [ ] Oil change (if due)
-- [ ] Check tire pressure + tread (including spare)
+- [ ] Check tire pressure + tread on new tires (including spare)
 - [ ] Inspect brake pads
 - [ ] Top off all fluids (coolant, brake, washer, etc.)
 - [ ] Test 4WD engagement (engage before trip to verify it works)
@@ -166,7 +167,7 @@
 - Buy big-ticket items (rack, sleeping bags, compressor)
 
 **2-4 weeks before (mid-late Mar):**
-- Vehicle maintenance appointments
+- **Vehicle maintenance appointments (TIRES BY MARCH 22)**
 - Fill gear gaps (headlamps, tools, etc.)
 - Test all gear at home
 
