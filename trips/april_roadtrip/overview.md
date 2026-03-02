@@ -51,8 +51,9 @@
 ## Next Steps
 
 1. ✅ ~~Confirm starting location~~ (Santa Cruz, CA)
-2. Plan drive route (there + back)
-3. Identify other stops/activities in 14-day window
-4. Build detailed day-by-day itinerary
+2. ✅ ~~Plan drive route options~~ (see [route-options.md](route-options.md))
+3. **Choose route combination** (pre + post White Rim)
+4. Finalize camping reservations (first-come sites) and BLM dispersed locations
 5. ~~Create packing list~~ ✅
 6. Vehicle prep checklist
+7. Order bikes for Megan & Max (6-8 weeks lead time)
