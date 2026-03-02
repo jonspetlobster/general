@@ -36,8 +36,8 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 - **Camp:** BLM dispersed near Mammoth (Benton Crossing Road area) or Glass Flow
 - **Activities:** Explore, setup camp, short ride
 
-![Mammoth Mountain](images/mammoth.jpg)
-*Mammoth Lakes area*
+![Mountain Landscape](images/mountain-landscape.jpg)
+*Sierra Nevada mountain scenery*
 
 **Day 4 (Apr 7) - Mammoth (REST DAY)**
 - **Camp:** Same spot
@@ -124,11 +124,11 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### Route C: Moab-Centric (Maximum Ride Time)
 
-![Moab Mountain Biking](images/moab-biking.jpg)
+![Moab Mountain Biking](images/mountain-biking.jpg)
 *Mountain biking in Moab*
 
-![Arches National Park](images/moab-arches.jpg)
-*Arches National Park near Moab*
+![Moab Landscape](images/moab-landscape.jpg)
+*Moab area desert landscape*
 
 **Theme:** Get to Moab faster, spend 4+ days riding world-class trails  
 **Total driving:** ~750 miles direct to Moab  
@@ -155,6 +155,9 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
   - Explore Arches NP (short hikes between rides)
   - Town resupply/meals
   - Rest/recovery days as needed
+
+![Arches National Park](images/arches-np.jpg)
+*Arches National Park*
 
 **Day 7-8 (Apr 10-11) - Moab (Staging Days)**
 - **Camp:** Move closer to Mineral Bottom Road entry
