@@ -5,24 +5,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jon's General Workspace</title>
     <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: system-ui, -apple-system, sans-serif;
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 0 20px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
-        h1 { color: #333; }
-        a { color: #0066cc; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        ul { list-style: none; padding: 0; }
-        li { padding: 8px 0; }
+        .container {
+            background: white;
+            border-radius: 12px;
+            padding: 3rem;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            max-width: 600px;
+            width: 90%;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+        }
+        .projects {
+            list-style: none;
+        }
+        .projects li {
+            margin-bottom: 1rem;
+        }
+        .projects a {
+            display: block;
+            padding: 1.25rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            color: #2c3e50;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border-left: 4px solid #3498db;
+        }
+        .projects a:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        .icon {
+            font-size: 1.5rem;
+            margin-right: 0.75rem;
+        }
+        .description {
+            display: block;
+            font-size: 0.875rem;
+            color: #6c757d;
+            margin-top: 0.25rem;
+            margin-left: 2.25rem;
+        }
     </style>
 </head>
 <body>
-    <h1>Jon's General Workspace</h1>
-    <ul>
-        <li>📍 <a href="trips/april_roadtrip/">April Roadtrip 2026</a></li>
-    </ul>
+    <div class="container">
+        <h1>📂 Jon's Workspace</h1>
+        <ul class="projects">
+            <li>
+                <a href="trips/april_roadtrip/">
+                    <span class="icon">🚗</span>
+                    <strong>April Roadtrip 2026</strong>
+                    <span class="description">Santa Cruz → Moab | White Rim Trail | Mountain biking</span>
+                </a>
+            </li>
+        </ul>
+    </div>
 </body>
 </html>
