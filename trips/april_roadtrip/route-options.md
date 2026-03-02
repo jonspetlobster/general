@@ -19,14 +19,17 @@ You have **8 days** to get from Santa Cruz to White Rim entry at Mineral Bottom/
 
 ### TL;DR - Pre-White Rim Route Comparison
 
-**Route A: Eastern Sierra Mountain Focus** (~950 mi, 2 rest days)  
+**Route A: Eastern Sierra Mountain Focus** (~1,300 mi total to Moab, 2 rest days)  
 High desert + mountains. Alabama Hills, Mammoth hot springs, Zion. Great scenic drives (Kings Canyon, Whitney Portal). **Catch:** Snow likely at high elevations, some roads may be closed.
 
-**Route B: Desert Parks Focus** (~900 mi, 2 rest days)  
+**Route B: Desert Parks Focus** (~1,200 mi total to Moab, 2 rest days)  
 Iconic parks. Death Valley, Valley of Fire, Gooseberry Mesa biking, Zion. Tons of scenic drives. **Catch:** Death Valley will be HOT (80-95°F+), limited biking there.
 
-**Route C: Moab-Centric** (~750 mi, 4 rest days)  
+**Route C: Moab-Centric Direct** (~990 mi direct to Moab, 4 rest days)  
 Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupine, Mag 7, Whole Enchilada). Best weather. **Catch:** Skip other parks, focus is purely on Moab trails.
+
+**Route D: Idaho High Desert Loop** (~1,400 mi total to Moab, 2 rest days)  
+Northern scenic route. Craters of the Moon, Sun Valley, City of Rocks, unique high desert landscapes. **Catch:** Longer drive, colder nights (possible snow), less developed camping.
 
 ### Route A: Eastern Sierra Mountain Focus
 
@@ -34,13 +37,13 @@ Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupi
 *Alabama Hills, California - BLM official photo*
 
 **Theme:** High desert mountains, scenic camping, moderate biking  
-**Total driving:** ~950 miles to Moab  
+**Total driving:** ~1,300 miles to Moab (417 mi to Alabama Hills, then ~880 mi to Moab via Mammoth/Zion)  
 **Stationary days:** 2
 
 #### Itinerary
 
 **Day 1 (Apr 4) - Santa Cruz → Alabama Hills**
-- **Distance:** 300 miles, 5 hours
+- **Distance:** 417 miles, 6.5-7 hours
 - **Route:** US-395 south through Owens Valley
 - **Optional detour:** Add Kings Canyon via CA-180 (+2-3 hours, stunning canyon drive - check if road is open past Grant Grove in early April)
 - **Camp:** BLM dispersed around Alabama Hills (Movie Road, Tuttle Creek)
@@ -101,7 +104,7 @@ Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupi
 *Death Valley National Park - Wikimedia Commons*
 
 **Theme:** Death Valley, Nevada desert, iconic landscapes  
-**Total driving:** ~900 miles to Moab  
+**Total driving:** ~1,200 miles to Moab (via Death Valley, Vegas, Zion)  
 **Stationary days:** 2
 
 #### Itinerary
@@ -179,7 +182,7 @@ Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupi
 *Canyonlands area, Utah - Wikimedia Commons*
 
 **Theme:** Get to Moab faster, spend 4+ days riding world-class trails  
-**Total driving:** ~750 miles direct to Moab  
+**Total driving:** ~990 miles direct to Moab (via I-80 → I-15 → I-70)  
 **Stationary days:** 4
 
 #### Itinerary
@@ -229,6 +232,74 @@ Maximum saddle time. Get to Moab fast, ride 4+ days straight (Slickrock, Porcupi
 
 **Pros:** Maximum time on world-class Moab trails, less driving stress, 4 full riding days, excellent scenic drives, ideal spring weather  
 **Cons:** Skips other scenic areas, Nevada camp is just a stopover, can be windy
+
+---
+
+### Route D: Idaho High Desert Loop
+
+**Theme:** Northern scenic route, unique high desert landscapes  
+**Total driving:** ~1,400 miles to Moab (via I-80 → Idaho → US-93 → I-84)  
+**Stationary days:** 2
+
+#### Itinerary
+
+**Day 1 (Apr 4) - Santa Cruz → Reno/Carson City Area**
+- **Distance:** 240 miles, 4 hours
+- **Route:** I-80 east through Tahoe area
+- **Camp:** BLM dispersed near Reno or Carson City
+- **Activities:** Drive day, setup camp
+
+**Day 2 (Apr 5) - Reno → Twin Falls, Idaho**
+- **Distance:** 380 miles, 6 hours
+- **Route:** I-80 → US-93 north through Nevada into Idaho
+- **Camp:** BLM dispersed or RV park near Twin Falls
+- **Activities:** Evening exploration, Shoshone Falls (Idaho's "Niagara")
+
+**Day 3 (Apr 6) - Twin Falls → Craters of the Moon (REST DAY)**
+- **Distance:** 120 miles, 2 hours
+- **Route:** US-93 → US-20/26 west
+- **Camp:** Craters of the Moon campground or nearby BLM
+- **Activities:** Explore lava fields, caves, cinder cones, easy hiking
+
+**Day 4 (Apr 7) - Craters of the Moon (REST DAY)**
+- **Camp:** Same spot
+- **Activities:** More exploration, mountain biking trails (some in the area), scenic drives through lava landscape
+
+**Day 5 (Apr 8) - Craters → City of Rocks / Burley Area**
+- **Distance:** 150 miles, 2.5 hours
+- **Route:** US-20 east → I-84 south
+- **Camp:** City of Rocks State Park or BLM dispersed
+- **Activities:** Rock climbing area, unique granite formations, hiking
+
+**Day 6 (Apr 9) - City of Rocks → Salt Lake City Area**
+- **Distance:** 140 miles, 2.5 hours
+- **Route:** I-84 east to SLC area
+- **Camp:** BLM dispersed or campground near SLC
+- **Activities:** Resupply, explore if time
+
+**Day 7 (Apr 10) - Salt Lake → Moab**
+- **Distance:** 240 miles, 4 hours
+- **Route:** I-15 south → I-70 east → US-191 south
+- **Camp:** BLM dispersed near Moab (Sand Flats, Hwy 128, Potash Road)
+- **Activities:** Arrive early afternoon, scout White Rim entry, evening ride
+
+**Day 8 (Apr 11) - Moab (REST DAY)**
+- **Camp:** Same spot or move closer to Mineral Bottom Road staging
+- **Activities:** Mountain bike Moab trails, final White Rim prep
+
+**Scenic Drives:**
+- **Craters of the Moon Loop Road** - 7-mile scenic drive through lava landscape
+- **City of Rocks Back Country Byway** - Granite spires and rock formations
+- **Mirror Lake Scenic Byway** (if routing near it) - High Uintas
+
+**Weather (early April):**
+- **Idaho high desert:** 45-60°F days, 25-35°F nights, **cold mornings, possible snow at elevation**
+- **Craters of the Moon:** Can be windy, high elevation (~6,000 ft)
+- **Salt Lake area:** 50-65°F days, 30-40°F nights
+- **Moab:** 60-70°F days, 35-45°F nights
+
+**Pros:** Unique landscapes (lava fields, granite spires), less crowded, different scenery than southern Utah, cooler temps  
+**Cons:** Longer total drive, colder nights (pack warm), less developed camping in Idaho, some areas remote, may encounter snow
 
 ---
 
@@ -369,9 +440,10 @@ Two parks. Quick Goblin Valley + Capitol Reef combo. Unique landscapes. **Catch:
 
 | Route | Total Miles | Stationary Days | Mountain Biking Focus | Scenery Variety |
 |-------|-------------|-----------------|----------------------|-----------------|
-| **A - Eastern Sierra** | ~950 | 2 | Moderate | High mountains, desert |
-| **B - Desert Parks** | ~900 | 2 | Low-Moderate | Desert parks, slickrock |
-| **C - Moab-Centric** | ~750 | 4 | **HIGH** | Focused on Moab |
+| **A - Eastern Sierra** | ~1,300 | 2 | Moderate | High mountains, desert |
+| **B - Desert Parks** | ~1,200 | 2 | Low-Moderate | Desert parks, slickrock |
+| **C - Moab-Centric** | ~990 | 4 | **HIGH** | Focused on Moab |
+| **D - Idaho High Desert** | ~1,400 | 2 | Low | Lava fields, granite, unique |
 
 ### Post-White Rim Routes
 
@@ -391,6 +463,7 @@ Two parks. Quick Goblin Valley + Capitol Reef combo. Unique landscapes. **Catch:
 
 **If you want scenic variety:**
 - **Pre:** Route A (Eastern Sierra) — mountains, desert, high elevation variety
+- **Pre:** Route D (Idaho) — most unique landscapes, lava fields, high desert, less crowded
 - **Post:** Route A (Capitol Reef) or C (Goblin Valley) — see different Utah parks
 
 **If you want balance:**

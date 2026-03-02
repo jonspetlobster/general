@@ -42,11 +42,15 @@
 
 ## Driving Distances (from Santa Cruz, CA)
 
-- **Moab, UT:** ~750 mi, 11-12 hrs
+- **Moab, UT (direct via I-80/I-15/I-70):** ~990 mi, 15-16 hrs
+- **Alabama Hills/Lone Pine:** ~417 mi, 6.5-7 hrs
+- **Death Valley:** ~450 mi, 7-8 hrs
 - **Las Vegas, NV:** ~570 mi, 8.5 hrs
-- **Zion NP:** ~670 mi, 10 hrs
-- **Arches NP:** ~755 mi, 11.5 hrs
-- **Canyonlands (Island in the Sky):** ~770 mi, 12 hrs
+- **Zion NP:** ~740 mi, 11-12 hrs
+- **Twin Falls, Idaho:** ~620 mi, 10 hrs
+- **Craters of the Moon, Idaho:** ~740 mi, 12 hrs
+
+**Note:** Actual distances vary by route. Direct to Moab is ~990 mi, but scenic routes add 200-400+ miles.
 
 ## Next Steps
 
