@@ -48,6 +48,8 @@ Drive to Moab in 3 comfortable days (no day over 350 miles), then ride world-cla
 
 **Biking Grade: A+** | **Riding Days: 4–5** | **Total Miles: ~990**
 
+<div style="margin:1rem 0;"><a href="https://www.google.com/maps/dir/Santa+Cruz,CA/Reno,NV/Ely,NV/Moab,UT" target="_blank" rel="noopener" style="display:inline-block;background:#4285f4;color:white;padding:0.5rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.95rem;">🗺️ Open Full Route in Google Maps</a></div>
+
 ---
 
 ### Itinerary
@@ -167,6 +169,8 @@ Drive to Moab in 3 comfortable days (no day over 350 miles), then ride world-cla
 High desert and mountain scenery through the Eastern Sierra. Alabama Hills, Mammoth Lakes hot springs, Zion slickrock. Beautiful but snow will likely shut down Mammoth biking in early April. **2–3 actual riding days.** Not the right call if riding is the priority.
 
 **Biking Grade: D+** | **Riding Days: 2–3** | **Total Miles: ~1,350**
+
+<div style="margin:1rem 0;"><a href="https://www.google.com/maps/dir/Santa+Cruz,CA/Fresno,CA/Lone+Pine,CA/Mammoth+Lakes,CA/Hurricane,UT/Moab,UT" target="_blank" rel="noopener" style="display:inline-block;background:#4285f4;color:white;padding:0.5rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.95rem;">🗺️ Open Full Route in Google Maps</a></div>
 
 ---
 
@@ -298,6 +302,8 @@ High desert and mountain scenery through the Eastern Sierra. Alabama Hills, Mamm
 Classic desert parks loop: Death Valley, Valley of Fire, Gooseberry Mesa, Zion. Gorgeous scenery, but Death Valley is dangerous in April midday heat and there's almost no mountain biking until Gooseberry Mesa on Day 7. **1–2 actual riding days.**
 
 **Biking Grade: D** | **Riding Days: 1–2** | **Total Miles: ~1,200**
+
+<div style="margin:1rem 0;"><a href="https://www.google.com/maps/dir/Santa+Cruz,CA/Bakersfield,CA/Death+Valley+National+Park,CA/Valley+of+Fire+State+Park,NV/Hurricane,UT/Moab,UT" target="_blank" rel="noopener" style="display:inline-block;background:#4285f4;color:white;padding:0.5rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.95rem;">🗺️ Open Full Route in Google Maps</a></div>
 
 ---
 
@@ -463,6 +469,8 @@ All return routes share the same brutal geography: ~750–800 miles of driving w
 Exit White Rim, drive 30 minutes to Moab. Get a hotel room. Sleep. Next day: spa, food, optional light ride. Then split the drive home over two manageable days via US-50. **This is the right call after 3 days on White Rim.**
 
 **Recovery Days: 2** | **Total Drive Home: ~750 mi**
+
+<div style="margin:1rem 0;"><a href="https://www.google.com/maps/dir/Moab,UT/Ely,NV/Santa+Cruz,CA" target="_blank" rel="noopener" style="display:inline-block;background:#4285f4;color:white;padding:0.5rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.95rem;">🗺️ Open Return Route in Google Maps</a></div>
 
 ---
 
