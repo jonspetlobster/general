@@ -89,16 +89,20 @@
 
 ## White Rim (Fixed — Apr 12–14)
 
+**Format: Truck support** — F150 hauls gear and water, bikes ride trail sections at will. Leapfrog style, no pack weight on bikes. Much more relaxed than a full bike-pack.
+
 | Date | Day | Details |
 |------|-----|---------|
 | Apr 12 (Sun) | Day 1 | Enter Mineral Bottom Road (off Hwy 313). Camp: Potato Bottom A |
-| Apr 13 (Mon) | Day 2 | White Rim Trail. Camp: Airport A |
+| Apr 13 (Mon) | Day 2 | White Rim Trail. Camp: Airport A (~45–50 mi by truck) |
 | Apr 14 (Tue) | Day 3 | White Rim Trail. Exit Shafer Trail Road → Moab |
 
 **Entry:** Mineral Bottom Road (turn off Hwy 313, ~18 miles from US-191)  
 **Exit:** Shafer Trail Road (steep switchbacks, high clearance 4WD required — F150 is fine, take it slow)  
 **Fill all water in Moab before staging.** No water at Mineral Bottom or on trail.  
 **Fill gas in Moab.** No gas on Hwy 313 or at trail entry.
+
+> ✅ **Permit verified Mar 4, 2026** — details confirmed OK on Recreation.gov.
 
 ---
 

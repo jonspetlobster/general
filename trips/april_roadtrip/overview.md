@@ -23,22 +23,13 @@
 - 4 days available
 - Return route, additional destinations
 
-## Open Questions
+## Route Decision
 
-- [ ] Drive route Santa Cruz → Moab? (~750 mi, 11-12 hrs)
-  - Direct I-80 → I-15 → I-70? 
-  - Scenic route through Nevada/Utah?
-  - Split into 1 or 2 day drive?
-- [ ] Additional stops/destinations before White Rim (Apr 4-11)?
-  - Las Vegas?
-  - Death Valley?
-  - Valley of Fire?
-  - Zion / Bryce Canyon?
-  - Arches NP?
-- [ ] Post-White Rim activities (Apr 15-18)?
-  - More Utah parks?
-  - Different return route?
-- [ ] 1-day vs 2-day drive back to Santa Cruz?
+Routes decided — see [our-plan.md](our-plan.md) for the full plan.
+
+**Outbound:** Route A (Eastern Sierra) or B (Desert Parks) — decided Mar 21 based on Mammoth snow  
+**Return:** Auto-follows outbound (A→Southwest Swing, B→US-50 + Sierra)  
+**White Rim:** Truck support format (F150 hauls gear, bikes ride trail sections at will)
 
 ## Driving Distances (from Santa Cruz, CA)
 
@@ -56,9 +47,11 @@
 
 1. ✅ ~~Confirm starting location~~ (Santa Cruz, CA)
 2. ✅ ~~Plan drive route options~~ (see [route-options.md](route-options.md))
-3. **Choose route combination** (pre + post White Rim)
-4. **Check road status in late March** - Tioga Road, Kings Canyon, La Sal Loop, Cathedral Valley (early April = transitional, some closures likely)
-5. Finalize camping reservations (first-come sites) and BLM dispersed locations
-6. ~~Create packing list~~ ✅
-7. Vehicle prep checklist
-8. Order bikes for Megan & Max (by March 8 deadline)
+3. ✅ ~~Choose route combination~~ (see [our-plan.md](our-plan.md))
+4. ✅ ~~Create packing list~~ (see [packing-list.md](packing-list.md))
+5. ✅ ~~White Rim permit verified~~ (Mar 4, 2026 — details confirmed OK)
+6. **Mar 8:** Order bikes for Megan & Max + bike accessories + gear
+7. **Mar 8:** Decide on camper/sleeping setup
+8. **Mar 15:** New tires installed on F150
+9. **Mar 21:** Check Mammoth trail status → commit Route A or B
+10. **Mar 21:** Check road status (Kings Canyon, La Sal Loop)

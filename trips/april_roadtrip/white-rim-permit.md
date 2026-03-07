@@ -5,6 +5,8 @@
 **Group:** 8 vehicles, 2 people  
 **Vehicle:** F150 4x4
 
+> ✅ **Permit verified Mar 4, 2026** — person count and details confirmed OK on Recreation.gov.
+
 ## Entry/Exit
 
 - **Entry:** Mineral Bottom Road/Hwy. 313 Junction (Island in the Sky - White Rim Road 4WD)

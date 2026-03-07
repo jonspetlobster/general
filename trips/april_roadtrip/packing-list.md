@@ -85,6 +85,42 @@
 - [ ] Paracord
 - [ ] Tarp/ground cloth
 
+## Mountain Biking
+
+### Protective Gear
+- [ ] Helmets (1 per rider)
+- [ ] Knee pads
+- [ ] Elbow pads
+- [ ] Gloves
+
+### Hydration & Nutrition
+- [ ] Hydration packs (1 per rider — camelback style)
+- [ ] Electrolyte mix/tabs (critical in desert heat)
+- [ ] Trail snacks (bars, gels, chews)
+
+### Bike Toolkit
+- [ ] Multi-tool (hex keys, torx, screwdrivers)
+- [ ] Chain breaker + master links
+- [ ] Tire levers
+- [ ] Spare tubes (2-3 per bike)
+- [ ] Tubeless plugs / plug kit
+- [ ] Tire sealant (top-up bottle)
+- [ ] CO2 inflators + cartridges (or hand pump)
+- [ ] Spoke wrench
+- [ ] Zip ties + duct tape
+
+### Bike Consumables
+- [ ] Chain lube (dry lube for desert)
+- [ ] Brake pads (spare set per bike — desert dust is brutal)
+- [ ] Derailleur hanger (spare — per bike model) ⚠️ model-specific, order when you buy bikes
+- [ ] Gear/brake cables (1 of each)
+
+### Logistics
+- [ ] Bike rack or bed mounts for F150
+- [ ] Bike lock (for towns/stops)
+- [ ] Bike wash gear (bucket + brush for post-White Rim)
+- [ ] Tire pressure gauge
+
 ## Notes
 
 - **Water is critical** - White Rim has no water sources. Bring more than you think.

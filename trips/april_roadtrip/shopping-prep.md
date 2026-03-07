@@ -32,14 +32,25 @@
 - [ ] Helmet (MIPS recommended)
 - [ ] Gloves
 - [ ] Padded shorts or bibs
+- [ ] Knee pads
+- [ ] Elbow pads
 - [ ] Hydration pack (CamelBak, Osprey) — 2-3L capacity
-- [ ] Bike multi-tool (carry on rides)
-- [ ] Spare tubes (2 per bike)
-- [ ] Tire levers
-- [ ] Mini pump or CO2 inflator + cartridges
-- [ ] Patch kit
-- [ ] Chain lube
 - [ ] Bike lock (for campsite/town)
+
+### Bike Toolkit (1 per trip)
+
+- [ ] Bike multi-tool (carry on rides)
+- [ ] Chain breaker + master links (per bike)
+- [ ] Tire levers
+- [ ] Spare tubes (2-3 per bike)
+- [ ] Tubeless plug kit
+- [ ] Tire sealant (top-up bottle)
+- [ ] CO2 inflators + cartridges (or hand pump)
+- [ ] Spoke wrench
+- [ ] Spare brake pads (1 set per bike — desert dust is hard on pads)
+- [ ] Spare derailleur cable + brake cable (1 each)
+- [ ] Chain lube (dry lube for desert)
+- [ ] Derailleur hanger ⚠️ model-specific — order same time as bikes
 
 ### Truck Bike Rack
 
@@ -56,11 +67,36 @@
 - [ ] **Sleeping bags rated for 30°F** (desert nights can drop to freezing)
 - [ ] **Sleeping pads** (insulated for cold ground)
 - [ ] **Tent large enough for 2 people + gear**
+- [ ] **Green box from van** (pull and inventory before trip)
+- [ ] **Camp grill**
+- [ ] **Propane** (for grill — check levels, bring extra)
+- [ ] **Coffee setup** (french press, percolator, or pour-over)
+- [ ] **New mug for Megan**
+- [ ] **Camp bowls + plates** (reusable, 1 set per person)
+- [ ] **Camp utensils** (fork, knife, spoon per person)
+- [ ] **Disposable plates/bowls/utensils** (backup for lazy nights)
+- [ ] **Dish washing setup:**
+  - Collapsible wash basin (2x — wash + rinse)
+  - Biodegradable dish soap
+  - Scrub brush/sponge
+  - Drying rack or mesh bag
+- [ ] **Jetboil** (fast boil for coffee/meals)
 - [ ] **Camp stove + fuel** (MSR, Jetboil, or Coleman dual-fuel)
+- [ ] **Camp fuel** (extra canisters — 14 days burns through a lot)
 - [ ] **Cooler** (Yeti/RTIC if you want ice to last, Coleman works)
-- [ ] **Water containers** (5-gallon jugs, collapsible, etc.) — need 10+ gallons total
+- [ ] **Water containers** (5-gallon jugs, collapsible, etc.) — need 20+ gallons total for White Rim (no water on trail)
 - [ ] **Headlamps** (one per person + spare batteries)
-- [ ] **Camp chairs** (if you don't have)
+- [ ] **Extra batteries** (AA/AAA stock for headlamps, lanterns, etc.)
+- [ ] **Lantern** (camp area lighting)
+- [ ] **Camp string lights** (vibe lighting for campsite)
+- [ ] **Bluetooth speaker** (black)
+- [ ] **Camp games** (cornhole, spikeball, etc.)
+- [ ] **Card games** (Uno, playing cards, etc.)
+- [ ] **Yahtzee**
+- [ ] **Camp chair for Megan**
+- [ ] **Kids chairs**
+- [ ] **White folding table**
+- [ ] **Truck organization bins** (for bed + cab — keep gear sorted and accessible)
 - [ ] **Portable toilet or WAG bags** (for dispersed camping)
 
 ## Vehicle Prep
@@ -69,6 +105,7 @@
 
 - [ ] **NEW TIRES - DEADLINE: March 15** (3 weeks before departure)
 - [ ] Oil change (if due)
+- [ ] Differential fluid check (front + rear — critical for 4WD off-road use)
 - [ ] Check tire pressure + tread on new tires (including spare)
 - [ ] Inspect brake pads
 - [ ] Top off all fluids (coolant, brake, washer, etc.)
@@ -88,6 +125,7 @@
 - [ ] **First aid kit** (vehicle + camping)
 - [ ] **Jumper cables or jump starter pack**
 - [ ] **Road flares or reflective triangles**
+- [ ] **12V portable vacuum** (desert dust will trash the cab fast — 14 days)
 - [ ] **Shovel** (collapsible or full-size)
 
 ## Food & Kitchen
@@ -96,6 +134,7 @@
 
 - [ ] Non-perishable meals (freeze-dried, canned, pasta, rice, etc.)
 - [ ] Snacks (bars, nuts, jerky, fruit)
+- [ ] Marshmallows (+ roasting sticks)
 - [ ] Coffee/tea
 - [ ] Spices/condiments in small containers
 - [ ] Cooking oil
@@ -127,15 +166,21 @@
 - [ ] **Hat** (wide brim or baseball cap)
 - [ ] **Buff or bandana** (dust protection)
 - [ ] **Work gloves** (for camp setup, firewood)
+- [ ] **Camp towels** (quick-dry)
+- [ ] **Soap** (biodegradable — Dr. Bronner's works for body + dishes)
 
 ## Navigation & Comms
 
 - [ ] **Satellite communicator** (Garmin InReach, SPOT) — HIGHLY RECOMMENDED for White Rim
+- [ ] **Starlink Mini** (portable, camp internet)
+- [ ] Starlink power cable + adapter (12V/car power or inverter)
+- [ ] Power inverter for truck (if not already have — to run Starlink from F150)
 - [ ] **Printed maps** (Utah road atlas, White Rim map)
 - [ ] **Offline maps downloaded** (Google Maps, Gaia GPS)
 - [ ] **Portable battery pack** (Anker, Goal Zero) — 20,000+ mAh
 - [ ] **12V phone charger**
 - [ ] **GoPro or action camera** (optional, for riding/scenery)
+- [ ] Tripod
 
 ## 🚁 Drone
 
@@ -165,6 +210,9 @@
 **6-8 weeks before (late Feb/early Mar):**
 - Order bikes (can take time to arrive/assemble)
 - Buy big-ticket items (rack, sleeping bags, compressor)
+
+**MARCH 8 DEADLINE - Camper Options:**
+- [ ] Research and decide on camper/sleeping setup options for the trip
 
 **MARCH 8 DEADLINE - Recovery Gear & Camping Equipment:**
 - [ ] Order air compressor
