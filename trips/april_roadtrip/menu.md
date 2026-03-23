@@ -85,7 +85,7 @@ Base camp cooking — you're set up and staying put. This is when you lean into 
 ### Day 10 (Apr 13, Mon) — Slot canyon day
 - **Breakfast:** Eggs + sausage + hashbrowns on griddle *(big breakfast before a physical day)*
 - **Lunch:** Packed wraps — deli turkey/salami, cheese, mustard, easy on trail
-- **Dinner:** Air fryer pork chops (bone-in, great crust) + twice baked potatoes
+- **Dinner:** Salmon cakes on griddle + twice baked potatoes
 
 > **Twice baked potatoes in air fryer:** Bake 40 min at 400°, scoop + mix with butter, cottage cheese, bacon, cheddar. Stuff back in, 10 more min. Kids customize their own. High protein with the cottage cheese filling.
 
@@ -137,7 +137,7 @@ Energy is lower. Keep it simple and satisfying.
 | Air fryer chicken wings 🔥 | ⭐⭐⭐ | Air fryer |
 | Air fryer chicken thighs | ⭐⭐⭐ | Air fryer |
 | Air fryer salmon | ⭐⭐⭐ | Air fryer |
-| Air fryer pork chops | ⭐⭐⭐ | Air fryer |
+| Salmon cakes on griddle | ⭐⭐⭐ | Griddle |
 | Smash burgers + coleslaw | ⭐⭐⭐ | Griddle |
 | Twice baked potatoes | ⭐⭐ | Air fryer |
 | Calzones | ⭐⭐ | Dutch oven |
