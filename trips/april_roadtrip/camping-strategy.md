@@ -1,6 +1,6 @@
 # Camping Strategy - No Reservations
 
-Since you only have reservations for White Rim (Apr 12-14), the rest of the trip needs flexible camping options.
+No reserved campsites on this trip. All dispersed BLM and first-come camping.
 
 ## Options for Unreserved Camping
 
@@ -81,21 +81,32 @@ Since you only have reservations for White Rim (Apr 12-14), the rest of the trip
 ## Strategy for Your Trip
 
 **Phase 1: CA Mountains/Desert (Apr 4-11)**
-- 1-2 nights Eastern Sierra (dispersed BLM)
-- 1 night Death Valley or Valley of Fire
-- Arrive Moab area ~Apr 9-10
+- 1-2 nights Eastern Sierra or Desert Parks (route A or B)
+- Gooseberry Mesa (Hurricane, UT) riding
+- Drive to Grand Staircase-Escalante Apr 11
 
-**Phase 2: Moab Pre-White Rim (Apr 9-11)**
-- 2-3 nights Moab area (dispersed camping, mountain biking)
-- Stage for White Rim entry on Apr 12
+**Phase 2: Grand Staircase-Escalante (Apr 11-14)**
+- Base camp: Hole-in-the-Rock Road dispersed (12 mi south of Escalante town)
+  - Backup: Cottonwood Canyon Road dispersed, or Kodachrome Basin State Park (first-come)
+- No reservations needed, no permits needed
+- Call BLM Kanab for road conditions: 435-644-1200
 
-**Phase 3: White Rim (Apr 12-14)**
-- Reserved campsites
+**Grand Staircase-Escalante highlights:**
+- **Devil's Garden** (GSENM) — 13 mi down Hole-in-the-Rock Rd, hoodoo playground, free, great for kids
+- **Lower Calf Creek Falls** — 5.5 mi RT, waterfall payoff, very doable for kids
+- **Peek-a-Boo & Spooky Gulch** — slot canyon loop, 26 mi down Hole-in-the-Rock Rd, tight squeezes kids love
+- **Kodachrome Basin State Park** — easy scenic walks, sandstone chimneys, 30 min from Escalante
+- **UT-12** — one of America's most scenic roads (Escalante → Boulder → Torrey → Capitol Reef)
 
-**Phase 4: Post-White Rim (Apr 15-18)**
-- 1-2 nights Moab (more mountain biking)
-- Optional: Capitol Reef or Goblin Valley
-- Return to Santa Cruz (1-2 day drive)
+**Road notes for F150 4x4:**
+- Hole-in-the-Rock Road: Dirt, washboard, high clearance fine — avoid after heavy rain
+- Cottonwood Canyon Road: Dirt, very scenic, check conditions first — impassable when wet
+- All other access: Paved (UT-12, US-89)
+
+**Phase 3: Return (Apr 15-18)**
+- Capitol Reef (80 mi from Escalante via UT-12) — easy first day back
+- Southwest swing or US-50 depending on outbound route
+- Return to Santa Cruz Apr 17-18
 
 ## Dispersed Camping Apps/Resources
 

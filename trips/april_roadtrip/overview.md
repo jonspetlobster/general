@@ -3,33 +3,33 @@
 **Available Window:** April 4-18, 2026  
 **Vehicle:** F150 4x4  
 **Start/End:** Santa Cruz, CA  
-**Focus:** Mountain biking + camping (CA mountains/desert → Moab)  
-**Confirmed Activity:** White Rim Trail (April 12-14)  
-**Camping:** No other reservations — dispersed/BLM/first-come sites
+**Focus:** Mountain biking + camping (CA mountains/desert → Grand Staircase-Escalante)  
+**Anchor:** Grand Staircase-Escalante National Monument (April 11-14)  
+**Camping:** All dispersed/BLM/first-come — no reservations needed
 
 ## Timeline
 
-### Pre-White Rim (Apr 4-11)
+### Outbound (Apr 4-11)
 - 8 days available
-- Options: drive route to Moab area, other destinations, staging/prep
+- Route A (Eastern Sierra) or Route B (Desert Parks) — decided Mar 21
 
-### White Rim Trail (Apr 12-14)
-- **Permit confirmed** - see [white-rim-permit.md](white-rim-permit.md)
-- Canyonlands National Park (Island in the Sky)
-- Clockwise loop, 2 nights
-- Campsites: Potato Bottom A → Airport A
+### Grand Staircase-Escalante (Apr 11-14)
+- No permits required — dispersed BLM camping
+- Base camp on Hole-in-the-Rock Road or Cottonwood Canyon Road
+- Activities: Devil's Garden hoodoos, Lower Calf Creek Falls, slot canyons (Peek-a-Boo/Spooky), Kodachrome Basin
+- UT-12 scenic drive (one of America's best)
 
-### Post-White Rim (Apr 15-18)
-- 4 days available
-- Return route, additional destinations
+### Return (Apr 15-18)
+- 4 days back to Santa Cruz
+- Return route follows outbound: A→Capitol Reef→Southwest, B→US-50+Sierra
 
 ## Route Decision
 
 Routes decided — see [our-plan.md](our-plan.md) for the full plan.
 
 **Outbound:** Route A (Eastern Sierra) or B (Desert Parks) — decided Mar 21 based on Mammoth snow  
-**Return:** Auto-follows outbound (A→Southwest Swing, B→US-50 + Sierra)  
-**White Rim:** Truck support format (F150 hauls gear, bikes ride trail sections at will)
+**Return:** Auto-follows outbound (A→Capitol Reef→Southwest, B→US-50+Sierra)  
+**GSENM:** All dispersed BLM camping, no permits needed, F150 handles all roads
 
 ## Driving Distances (from Santa Cruz, CA)
 
@@ -49,7 +49,7 @@ Routes decided — see [our-plan.md](our-plan.md) for the full plan.
 2. ✅ ~~Plan drive route options~~ (see [route-options.md](route-options.md))
 3. ✅ ~~Choose route combination~~ (see [our-plan.md](our-plan.md))
 4. ✅ ~~Create packing list~~ (see [packing-list.md](packing-list.md))
-5. ✅ ~~White Rim permit verified~~ (Mar 4, 2026 — details confirmed OK)
+5. ✅ ~~White Rim scrapped~~ → Grand Staircase-Escalante (no permit needed)
 6. **Mar 8:** Order bikes for Megan & Max + bike accessories + gear
 7. **Mar 8:** Decide on camper/sleeping setup
 8. **Mar 15:** New tires installed on F150
